@@ -1,13 +1,14 @@
-### Mitchell | @MrMaaak
-Hi there, I'm Mitchell, a developer in the making.
+### 😄 Mitchell | @MrMaaak 
+ Hi there, I'm Mitchell, a developer in the making.
 
+## ✌️ More about me
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mitchell-vari/)
 [<img src="https://img.shields.io/badge/-Code%20Wars-B1361E?logo=codewars&logoColor=white&style=for-the-badge"/>](https://www.codewars.com/users/MrMaaak)
 
 - Currently studying Software Development @ Developers Institute
 - Contact: mitchell.vari@gmail.com
 
-## 💻 :hammer: Tech Stack and Tools:
+## 💻 Tech Stack and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white) 
